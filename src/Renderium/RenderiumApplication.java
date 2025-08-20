@@ -11,7 +11,7 @@ import java.util.List;
 public class RenderiumApplication {
 
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Demo Viewer");
+        JFrame frame = new JFrame("Renderium");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         Container pane = frame.getContentPane();
