@@ -6,12 +6,12 @@ Renderium é um renderizador 3D em Java usando Swing. Permite visualizar e rotac
 
 - `Application/RenderiumApplication.java` – Classe principal.
 - `Models/StandardModels.java` – Classes `Vertex` e `Triangle`.
-- `Models/Renderer.java` – Renderiza triângulos 3D com Z-buffer.
+- `Models/Renderer.java` – Renderiza as faces do cubo 3D com Z-buffer.
 - `Renderium/Matrix3.java` – Matriz 3x3 para rotação 3D.
 
 ## Funcionalidades
 
-- Renderização de cubos 3D.
+- Renderização de cubos 3D (até o momento)
 - Rotação usando sliders:
     - Horizontal (heading)
     - Vertical (pitch)
