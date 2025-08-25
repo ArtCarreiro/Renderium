@@ -1,6 +1,6 @@
 # Renderium – Renderizador 3D em Java
 
-Renderium é um renderizador 3D em Java usando Swing. Permite visualizar e rotacionar cubos 3D.
+Renderium é um renderizador 3D em Java usando Swing e Z-buffer. O objetivo principal é construir um renderizador capaz de processar dados definidos em 2D e representá-los em 3D..
 
 ## Estrutura do Projeto
 
